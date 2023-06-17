@@ -1,1 +1,1 @@
-### Pollux Media
+### Welcome to the Pollux Studio
