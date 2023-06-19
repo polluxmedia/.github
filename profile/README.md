@@ -1,1 +1,1 @@
-### Welcome to the Pollux Studio
+### Welcome to the Pollux Studio ™ 
