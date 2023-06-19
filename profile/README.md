@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  <h1>Welcome to the Pollux Studio ™</h1>
+  <h2>Welcome to the Pollux Studio ™</h2>
 </div>
