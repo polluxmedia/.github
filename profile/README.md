@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Welcome to the Pollux Studio</h2>
+  <h2>Welcome to the Chromatic Studio ™</h2>
 </div>
 
 <div align="center">
