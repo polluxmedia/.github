@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/polluxstudio/medias/main/polluxstudio/logo.png" alt="Pollux Studio Logo">
+  <img src="https://raw.githubusercontent.com/polluxstudio/medias/main/polluxstudio/logo.png" style="width:380px" alt="Pollux Studio Logo">
 </div>
 
 <div align="center">
