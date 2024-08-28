@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-  <p>We are a global digital agency based on UK, Where we provide various services such as Web Design, Web Development, Grapich Design.</p>
+  <p>We are a global digital agency based on UK, Where we provide various services such as Web Design, Web Development and Graphic Design.</p>
 </div>
